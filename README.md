@@ -12,3 +12,4 @@
 8. 🔒 [Closure](https://github.com/devarkarr/js-hard-of-parts/blob/main/closure/README.md)
 9. 🥅 [Return a function](https://github.com/devarkarr/js-hard-of-parts/blob/main/return%20a%20function/README.md)
 10. ⚓️ [Calling function within function](https://github.com/devarkarr/js-hard-of-parts/blob/main/calling%20function%20within%20function/README.md)
+11. 🏹 [Function Scope Backpack](https://github.com/devarkarr/js-hard-of-parts/blob/main/function%20scope%20backpack/README.md)
